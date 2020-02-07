@@ -1,0 +1,1 @@
+alert("O nome completo é " + nomeC);
